@@ -1,0 +1,41 @@
+antenv/
+.venv/
+venv/
+# =========================
+# Python virtual environment
+# =========================
+.venv/
+venv/
+
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# Datasets (training only)
+# =========================
+Helmet_Dataset/
+
+# =========================
+# ML model files (optional)
+# =========================
+
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# OS files
+# =========================
+.DS_Store
